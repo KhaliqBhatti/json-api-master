@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "firstName": "Ali",
+      "lastName": "Ahmad",
+      "email": "mian41935@gmail.com",
+      "salary": "767",
+      "date": "2023-12-15",
+      "id": 1
+    },
+    {
+      "firstName": "Test",
+      "lastName": "Ahmad",
+      "email": "mian41935@gmail.com",
+      "salary": "767",
+      "date": "2023-12-15",
+      "id": 2
+    },
+    {
+      "firstName": "jhon",
+      "lastName": "Doe",
+      "email": "mian41935@gmail.com",
+      "salary": "767",
+      "date": "2023-12-15",
+      "id": 3
+    }
+  ]
+}
